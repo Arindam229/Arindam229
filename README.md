@@ -1,4 +1,4 @@
-### 📊 My GitHub Metrics
+### 📊 My GitHub Metrics 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Arindam229&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" width="48%" alt="Arindam's GitHub stats" />
